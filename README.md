@@ -1,6 +1,6 @@
 # 👋 Hi, I’m William de Andrade Soares
 
-### 🚀 Aspiring Software Developer | Transitioning from R&D & Engineering
+### 🚀 Aspiring Software Developer | Transitioning from R&D & Mechanical Engineering
 
 I am currently a student of **Agile Software Development (CTeSP)** at **ISEP** (Instituto Superior de Engenharia do Porto).
 
@@ -12,13 +12,14 @@ With over **10 years of experience** in the manufacturing and R&D sectors. I dev
 * **Languages:** Java, C#, JavaScript/TypeScript, PHP, SQL.
 * **Frontend:** React, HTML5, CSS3, JavaFX.
 * **Backend:** Spring Boot (Java), Laravel (PHP), .NET.
-* **Tools & Methodologies:** Git, Jira, Agile/Scrum, MySQL Workbench.
+* **Systems & Security:** Linux Administration (Shell/Bash), Windows Server, Network Configuration (TCP/IP), Cybersecurity Basics.
+* **Tools & Methodologies:** Git, Jira, Agile/Scrum, SQL Server Management.
 
 ---
 
 ### 💻 Featured Projects
 
-#### 🚇 [City Metro Management System](#)
+#### 🚇 [City Metro Management System]
 *A comprehensive full-stack solution for managing metropolitan transport networks and user ticketing.*
 * **Tech Stack:** Java (Backend), React & TypeScript (Frontend), SQL, XML/JSON.
 * **Key Features:**
