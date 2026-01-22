@@ -18,10 +18,14 @@ With over **10 years of experience** in the manufacturing and R&D sectors. I dev
 
 ### 💻 Featured Projects
 
-#### 🚇 [City Metro Management System]
-*A full-stack application to manage a city's metro operations, including lines, stations, and schedules.*
-* **Tech:** Java (Backend), React & TypeScript (Frontend), SQL.
-* **Key Features:** REST API implementation and responsive UI design.
+#### 🚇 [City Metro Management System](#)
+*A comprehensive full-stack solution for managing metropolitan transport networks and user ticketing.*
+* **Tech Stack:** Java (Backend), React & TypeScript (Frontend), SQL, XML/JSON.
+* **Key Features:**
+    * **Data Exchange:** Implemented robust import/export features using **XML and JSON** for the lines system.
+    * **Ticketing Engine:** Developed a logic for **ticket purchasing and validation**.
+    * **User Management:** Built a system for managing monthly passes and user profiles.
+    * **Core Logic:** Robust REST API handling complex line, station, and route algorithms.
 
 #### 🪙 [Cryptocurrency Portfolio Manager]
 *Desktop application for tracking and managing personal crypto investments.*
