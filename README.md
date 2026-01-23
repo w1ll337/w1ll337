@@ -11,9 +11,12 @@ With over **10 years of experience** in the manufacturing and R&D sectors. I dev
 ### 🛠️ Tech Stack & Skills
 * **Languages:** Java, C#, JavaScript/TypeScript, PHP, SQL.
 * **Frontend:** React, HTML5, CSS3, JavaFX.
-* **Backend:** Spring Boot (Java), Laravel (PHP), .NET.
-* **Systems & Security:** Linux Administration (Shell/Bash), Windows Server, Network Configuration (TCP/IP), Cybersecurity Basics.
-* **Tools & Methodologies:** Git, Jira, Agile/Scrum, SQL Server Management.
+* **Backend:** Java (REST API), Laravel (PHP), .NET.
+* **Databases:** MySQL, SQL Server.
+* **DevOps & Infrastructure:** Docker, Kubernetes, Jenkins, Linux (Bash), Network Config (TCP/IP).
+* **Tools:** Git, Jira, VS Code, IntelliJ, Swagger, Postman.
+* **AI-Assisted Development:** ChatGPT, Gemini, GitHub Copilot (Code Optimization & Debugging).
+* **Methodologies:** Agile, Scrum.
 
 ---
 
