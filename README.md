@@ -72,6 +72,7 @@ With over **10 years of experience** in the manufacturing and R&D sectors, I dev
 <a href="https://www.linkedin.com/in/williams0ares/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
 <a href="mailto:william.soares1337@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
